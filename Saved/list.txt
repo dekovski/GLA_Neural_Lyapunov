@@ -1,6 +1,0 @@
-https://github.com/dekovski/GLA_Neural_Lyapunov/raw/main/Saved/a.pickle
-https://github.com/dekovski/GLA_Neural_Lyapunov/raw/main/Saved/checkpoint_GLA_-0.5571086503725828.pth
-https://github.com/dekovski/GLA_Neural_Lyapunov/raw/main/Saved/checkpoint_GLA_-0.5939792335412136.pth
-https://github.com/dekovski/GLA_Neural_Lyapunov/raw/main/Saved/checkpoint_GLA_-0.6918096666798904.pth
-https://github.com/dekovski/GLA_Neural_Lyapunov/raw/main/Saved/checkpoint_GLA_-0.7622961090762916.pth
-https://github.com/dekovski/GLA_Neural_Lyapunov/raw/main/Saved/checkpoint_GLA_-1.1142175848725817.pth
