@@ -1,5 +1,5 @@
 <h1 align="center">Supervised learning of Lyapunov functions using Laplace averages of approximate Koopman eigenfunctions</h1>
-<p>This page contains the code associated with our paper [https://ieeexplore.ieee.org/document/10171181]. We provide two examples that can be run easily on your browser as Google Collab notebooks. Don't forget to select the GPU option in Collab notebook settings (but this is not strictly required).</p>
+<p>This page contains the code associated with our paper [https://ieeexplore.ieee.org/document/10171181]. We provide two examples that can be run easily on your browser as Google Colab notebooks. Don't forget to select the GPU option in Colab notebook settings (but this is not strictly required).</p>
 
 <p></p>
 
