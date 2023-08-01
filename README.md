@@ -12,3 +12,21 @@ For further questions, please email me at deka@kth.se. Thanks!
 </p>
 <p align="center">Complementing strengths of different approaches: Generalized Laplace Analysis + EDMD + Deep Learning 
 </p>
+
+
+<p> </p>
+
+
+## Citation
+If you found the code useful, please cite this work as:
+```
+@article{deka2023supervised,
+  author={Deka, Shankar A. and Dimarogonas, Dimos V.},
+  journal={IEEE Control Systems Letters}, 
+  title={Supervised Learning of Lyapunov Functions Using Laplace Averages of Approximate Koopman Eigenfunctions}, 
+  year={2023},
+  volume={7},
+  number={},
+  pages={3072-3077},
+  doi={10.1109/LCSYS.2023.3291657}}
+```
